@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css?family=Chicle");
+body {
+  background: #334d50; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #cbcaa5,
+    #334d50
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #cbcaa5,
+    #334d50
+  );
+}
+.header-color {
+  background: #334d50; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #cbcaa5,
+    #334d50
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #cbcaa5,
+    #334d50
+  );
+}
+.home-grid {
+  background: #334d50; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #cbcaa5,
+    #334d50
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #cbcaa5,
+    #334d50
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  height: 100px;
+}
+.my-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+}
+.job-description {
+  background: linear-gradient(
+    to right,
+    #7a7955,
+    #334d50
+  );
+  opacity: 0.5px;
+  border-radius: 10px;
+  margin: auto;
+  width: 50%;
+}
+.job-description h2 {
+  color: white;
+  text-align: center;
+  font-family: "Chicle", cursive;
+  padding-top: 10px;
+}
+.demo-tabs {
+  color: white;
+  font-size: 19px;
+  text-align: center;
+  font-family: "Chicle", cursive;
+  max-width: 100%;
+}
+.content{
+  color: white;
+  text-align: center;
+  width: 100%;
+}
+.links {
+  margin: 100px;
+  text-align: center;
+}
+.links a{
+  font-size: 100px;
+  padding: 20px;
+  color: rgb(99, 96, 96);
+}
+.content{
+  padding: 10px;
+  max-width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.progress-bar {
+  margin: -20px auto 20px auto;
+}
+.percent-bar {
+  margin-top: 20px;
+  font-size: 18px;
+}
