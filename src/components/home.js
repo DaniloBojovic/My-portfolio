@@ -26,7 +26,7 @@ class Home extends Component {
       <div style={{ width: "100%", margin: "auto" }}>
         <Grid className="home-grid">
           <Cell col={12}>
-            <img src="file:///C:/_dbojovic/git/portfolio-react/src/img/portfolio.JPG" alt="me" className="my-img" />
+            <img src="./img/rsz-portfolio.jpg" alt="me" className="my-img" />
             <div className="job-description">
               <h2>Software Developer</h2>
               <div className="demo-tabs">
